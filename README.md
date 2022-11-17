@@ -1,5 +1,5 @@
--# Sobre mim.
--## Editando perfil:
+- # Sobre mim.
+- ## Editando perfil:
 - 👋 Meu email de contato é a.denck@escola.pr.gov.br
 - 👀 Estou interessada em estudar programação
 - 🌱 Atualmente estou aprendendo linguagem de programação
